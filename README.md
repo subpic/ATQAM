@@ -63,7 +63,7 @@ To be announced.
 ### Organizers
 
 <div class="image-cropper">
- <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/wen-huan.jpg?raw=true" class="rounded" />
+ <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/wen-huang.jpg?raw=true" class="rounded" />
  <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/bastian-goldlueke.jpg?raw=true" class="rounded" />
  <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/vlad-hosu.jpg?raw=true" class="rounded" />
  <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/weisi-lin.jpg?raw=true" class="rounded" /> 
