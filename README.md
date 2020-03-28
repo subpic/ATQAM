@@ -29,7 +29,6 @@ Authors are invited to submit a full paper (two-column format, 6-8 pages) electr
 | Submission Deadline for Workshop Papers       |  7th July 2020   |
 | Notification of Acceptance of Workshop Papers | 28th July 2020   |
 | Workshop Camera-Ready Papers Due by           |  7th August 2020 |
-|  |  |
 
 All deadlines are at midnight (23:59) Anywhere on Earth.
 
