@@ -14,7 +14,7 @@ The scope of this workshop spans:
   * Real-world systems and applications
   * Applications to media such as light fields, 360 or stereo, point clouds.
  
-Authors are invited to submit a full paper (two-column format, max. 8 pages) electronically according to the guidelines available on the conference website at https://2020.acmmm.org/.
+Authors are invited to submit a full paper (two-column format, max. 8 pages) electronically according to the guidelines available on the conference website at [2020.acmmm.org](https://2020.acmmm.org/).
 
 ---
 
@@ -38,7 +38,7 @@ We use the same formatting template as ACM Multimedia 2019 and we seek two kind 
 
 Original contributions: full 6-page paper submissions (not including references).
 Extended abstracts: with preliminary results, 2-page submissions (not including references).
-All contributions must be submitted through CMT using the following link: https://cmt3.research.microsoft.com/ATQAM
+All contributions must be submitted through CMT using the following link: [cmt3.research.microsoft.com/ATQAM](https://cmt3.research.microsoft.com/ATQAM)
 
 ---
 
