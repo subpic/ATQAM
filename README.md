@@ -35,7 +35,11 @@ Authors are invited to submit a full paper (two-column format, max. 8 pages) ele
 
 ### Paper submission
 
-[TODO]
+We use the same formatting template as ACM Multimedia 2019 and we seek two kind of submissions:
+
+Original contributions: full 6-page paper submissions (not including references).
+Extended abstracts: with preliminary results, 2-page submissions (not including references).
+All contributions must be submitted through CMT using the following link: https://cmt3.research.microsoft.com/ATQAM
 
 ---
 
