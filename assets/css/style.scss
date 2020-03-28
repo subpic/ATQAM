@@ -40,7 +40,7 @@ table, tr, td {
 }
 
 // image credit: Photo by Adrien Olichon on Unsplash (https://unsplash.com/photos/WNs0bW8kHTM)
-#header_wrap {
+#header_wrap, #footer_wrap {
  background-image:url('{{ site.baseurl }}/assets/images/adrien-olichon-unsplash-edit.jpg');
  background-repeat:no-repeat;
  background-position: center bottom;
