@@ -22,8 +22,6 @@ Authors are invited to submit a full paper (two-column format, 6-8 pages) electr
 
 <br/>
 
-<br/>
-
 ## Important dates
 
 |  |  |
@@ -40,8 +38,6 @@ Unless we hear anything different from the Conference organizers, the dates are 
 
 <br/>
 
-<br/>
-
 ## Paper submission
 
 We use the same formatting template as ACM Multimedia 2019 and we seek two kind of submissions:
@@ -49,8 +45,6 @@ We use the same formatting template as ACM Multimedia 2019 and we seek two kind 
 Original contributions: full 6-8 page paper submissions (not including references).
 Extended abstracts: with preliminary results, 2-page submissions (not including references).
 All contributions must be submitted through CMT using the following link: [cmt3.research.microsoft.com/ATQAM](https://cmt3.research.microsoft.com/ATQAM)
-
-<br/>
 
 <br/>
 
@@ -70,13 +64,9 @@ _Talk title and abstract: TBA._
 
 <br/>
 
-<br/>
-
 ## Program
 
 To be announced.
-
-<br/>
 
 <br/>
 
