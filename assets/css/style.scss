@@ -42,8 +42,7 @@ table, tr, td {
 #header_wrap {
  background-image:url('{{ site.baseurl }}/assets/images/adrien-olichon-unsplash-edit.jpg');
  background-repeat:no-repeat;
-// background-width: 100%;
- background-position: center bottom;
+ background-position: bottom center;
  background-attachment: fixed;
  background-size: cover;
 }
