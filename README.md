@@ -23,8 +23,9 @@ Authors are invited to submit a full paper (two-column format, max. 8 pages) ele
  
 ### IMPORTANT DATES
 
-```
-Submission Deadline for Workshop Papers                     	7th July 2020
-Notification of Acceptance of Workshop Papers                 28th July 2020
-Workshop Camera-Ready Papers Due by                           7th August 2020
-```
+| Deadline | Date |
+| :--- |---: |
+| Submission Deadline for Workshop Papers       |  7th July 2020   |
+| Notification of Acceptance of Workshop Papers | 28th July 2020   |
+| Workshop Camera-Ready Papers Due by           |  7th August 2020 |
+
