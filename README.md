@@ -44,9 +44,13 @@ All contributions must be submitted through CMT using the following link: [cmt3.
 
 ### Invited speakers
 
+<img src="assets/images/alan-bovik.png" alt="Alan Conrad Bovik" style="width:50%; float:left"/>
+
 [Alan Conrad Bovik](http://www.ece.utexas.edu/people/faculty/alan-bovik) is an American engineer and vision scientist. He is a Professor at The University of Texas at Austin (UT-Austin), where he holds the Cockrell Family Regents Endowed Chair and is Director of the Laboratory for Image and Video Engineering. He is a faculty member in the UT-Austin Department of Electrical and Computer Engineering, the Institute for Neuroscience, and the Wireless Networking and Communications Group. Bovik won a Primetime Emmy Award in 2015 for his development of video quality measurement tools that are now standards in television production. Two of Bovik's research publications in the area of visual image quality have been recognized as 2017 Google Scholar Classic Papers, which are selected for being highly-cited papers that have stood the test of time, and are among the ten most-cited articles in their area of research published ten years earlier.
 
 Talk title and abstract: TBA.
+
+<img src="assets/images/james-wang.png" alt="James Z. Wang" style="width:50%; float:left"/>
 
 [James Z. Wang](http://infolab.stanford.edu/~wangz/home/) is a professor at Pennsylvania State University. Wang's research seeks to advance knowledge through modeling objects, concepts, aesthetics, and emotions in big visual data. He is well-known for his pioneering research in the field of aesthetics quality assessment. His research team have developed the ACQUINE aesthetic quality inference engine, SIMPLIcity semantics-sensitive image retrieval system, the ALIPR real-time computerized image tagging system, which are all widely cited. His research has been reported widely by significant media, including Discovery, Scientific American, MIT Tech Review, Public Radio, NPR, and CBS. Wang also received an NSF Career award and the endowed PNC Technologies Career Development Professorship.
 
