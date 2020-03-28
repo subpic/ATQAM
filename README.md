@@ -16,7 +16,9 @@ The scope of this workshop spans:
  
 Authors are invited to submit a full paper (two-column format, 6-8 pages) electronically according to the guidelines available on the conference website at [2020.acmmm.org](https://2020.acmmm.org/).
 
+
 ***
+
 
 ### Important dates
 
@@ -30,7 +32,9 @@ All deadlines are at midnight (23:59) Anywhere on Earth.
 
 > _As of 28th March 2020, there are no changes for the workshop paper submission deadlines. Unless we hear anything different from the Conference organizers, the dates are as advertised before._
 
+
 ***
+
 
 ### Paper submission
 
@@ -40,7 +44,10 @@ Original contributions: full 6-8 page paper submissions (not including reference
 Extended abstracts: with preliminary results, 2-page submissions (not including references).
 All contributions must be submitted through CMT using the following link: [cmt3.research.microsoft.com/ATQAM](https://cmt3.research.microsoft.com/ATQAM)
 
+
 ***
+
+
 
 ### Invited speakers
 
@@ -56,13 +63,19 @@ Talk title and abstract: TBA.
 
 Talk title and abstract: TBA.
 
+
 ***
+
+
 
 ### Program
 
 To be announced.
 
+
 ***
+
+
 
 ### Organizers
 
@@ -87,4 +100,7 @@ To be announced.
     </tr>
 </table>
 
+
 ***
+
+
