@@ -44,10 +44,9 @@ Original contributions: full 6-8 page paper submissions (not including reference
 Extended abstracts: with preliminary results, 2-page submissions (not including references).
 All contributions must be submitted through CMT using the following link: [cmt3.research.microsoft.com/ATQAM](https://cmt3.research.microsoft.com/ATQAM)
 
-
+<br/>
 ***
-
-
+<br/>
 
 ### Invited speakers
 
@@ -63,19 +62,18 @@ Talk title and abstract: TBA.
 
 Talk title and abstract: TBA.
 
-
+<br/>
 ***
-
+<br/>
 
 
 ### Program
 
 To be announced.
 
-
+<br/>
 ***
-
-
+<br/>
 
 ### Organizers
 
@@ -100,7 +98,5 @@ To be announced.
     </tr>
 </table>
 
-
-***
 
 
