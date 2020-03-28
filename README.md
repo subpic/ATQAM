@@ -64,11 +64,23 @@ To be announced.
 
 <div class="image-cropper">
  <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/wen-huang.jpg?raw=true" class="rounded" />
+</div> 
+<div class="image-cropper">
  <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/bastian-goldlueke.jpg?raw=true" class="rounded" />
+</div> 
+<div class="image-cropper">
  <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/vlad-hosu.jpg?raw=true" class="rounded" />
+</div> 
+<div class="image-cropper">
  <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/weisi-lin.jpg?raw=true" class="rounded" /> 
+</div> 
+<div class="image-cropper">
  <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/dietmar-saupe.jpg?raw=true" class="rounded" />
+</div> 
+<div class="image-cropper">
  <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/john-see.jpg?raw=true" class="rounded" />
+</div> 
+<div class="image-cropper">
  <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/lai-kuan-wong.jpg?raw=true" class="rounded" />
 </div>
 
