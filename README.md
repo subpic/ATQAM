@@ -75,13 +75,13 @@ To be announced.
      <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/lai-kuan-wong.png?raw=true" class="profile"/></td>
     </tr>
     <tr>
-     <td width="200px"> Wen-Huang Cheng<br/> NCTU, Taiwan </td>
-     <td width="200px"> Bastian Goldlücke<br/> Uni Konstanz, Germany </td>
-     <td width="200px"> Vlad Hosu<br/> Uni Konstanz, Germany </td>
-     <td width="200px"> Weisi Lin<br/> NTU, Singapore </td>
-     <td width="200px"> Dietmar Saupe<br/> Uni Konstanz, Germany </td>
-     <td width="200px"> John See<br/> MMU, Malaysia </td>
-     <td width="200px"> Lai-Kuan Wong<br/> MMU, Malaysia </td>
+     <td width="150px"> Wen-Huang Cheng<br/> NCTU, Taiwan </td>
+     <td width="150px"> Bastian Goldlücke<br/> Uni Konstanz, Germany </td>
+     <td width="150px"> Vlad Hosu<br/> Uni Konstanz, Germany </td>
+     <td width="150px"> Weisi Lin<br/> NTU, Singapore </td>
+     <td width="150px"> Dietmar Saupe<br/> Uni Konstanz, Germany </td>
+     <td width="150px"> John See<br/> MMU, Malaysia </td>
+     <td width="150px"> Lai-Kuan Wong<br/> MMU, Malaysia </td>
     </tr>
 </table>
 
