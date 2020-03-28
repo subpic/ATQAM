@@ -33,6 +33,8 @@ Authors are invited to submit a full paper (two-column format, max. 8 pages) ele
 
 All deadlines are at midnight (23:59) Anywhere on Earth.
 
+```As of 28th March 2020, there are no changes for the workshop paper submission deadlines. Unless we hear anything different from the Conference organizers, the dates are as advertised before.```
+
 ---
 
 ### Paper submission
