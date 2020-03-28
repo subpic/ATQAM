@@ -68,10 +68,20 @@ To be announced.
     <tr>
      <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/wen-huang.jpg?raw=true" class="rounded" /></td>
      <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/bastian-goldlueke.jpg?raw=true" class="rounded" /></td>
+     <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/vlad-hosu.jpg?raw=true" class="rounded" /></td>
+     <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/weisi-lin.jpg?raw=true" class="rounded" /></td>
+     <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/dietmar-saupe.jpg?raw=true" class="rounded" /></td>
+     <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/john-see.jpg?raw=true" class="rounded" /></td>
+     <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/lai-kuan-wong.jpg?raw=true" class="rounded" /></td>
     </tr>
     <tr>
      <td width="200px"> Wen-Huang Cheng<br/> NCTU, Taiwan </td>
      <td width="200px"> Bastian Goldlücke<br/> Uni Konstanz, Germany </td>
+     <td width="200px"> Vlad Hosu<br/> Uni Konstanz, Germany </td>
+     <td width="200px"> Weisi Lin<br/> NTU, Singapore </td>
+     <td width="200px"> Dietmar Saupe<br/> Uni Konstanz, Germany </td>
+     <td width="200px"> John See<br/> MMU, Malaysia </td>
+     <td width="200px"> Lai-Kuan Wong<br/> MMU, Malaysia </td>
     </tr>
 </table>
 
