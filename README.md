@@ -62,8 +62,6 @@ To be announced.
 
 ### Organizers
 
-
-
 <table id="page" style="position:relative; left=-20px">
     <tr>
      <td id="page"><img src="assets/images/wen-huang.png?raw=true" class="profile"/></td>
