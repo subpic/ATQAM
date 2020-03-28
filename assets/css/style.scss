@@ -21,7 +21,13 @@ table, tr, td {
     border: none;
 }
 
-table {
-  border-spacing: 0;
-  border-collapse: collapse;
+/* Apply this to your `table` element. */
+#page {
+   border-collapse: collapse;
+}
+
+/* And this to your table's `td` elements. */
+#page td {
+   padding: 0; 
+   margin: 0;
 }
