@@ -3,18 +3,6 @@
 
 @import "jekyll-theme-slate";
 
-
-.image-cropper {
-    width: 100px;
-    height: 100px;
-    position: relative;
-    overflow: hidden;
-    border-radius: 60%;
-    float:center;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 img {
     display: inline;
     margin: 0 auto;
@@ -27,4 +15,8 @@ img.rounded {
   border-radius: 50%;
   height: 100px;
   width: 100px;
+}
+
+table {
+    border: 0;
 }
