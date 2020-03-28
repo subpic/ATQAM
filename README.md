@@ -64,33 +64,37 @@ To be announced.
 
 <div class="image-cropper">
  <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/wen-huang.jpg?raw=true" class="rounded" />
+ <p>Wen-Huang Cheng<br/>
+ NCTU, Taiwan</p>
 </div> 
 <div class="image-cropper">
  <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/bastian-goldlueke.jpg?raw=true" class="rounded" />
+ <p>Bastian Goldlücke<br/>
+ University of Konstanz, Germany</p
 </div> 
 <div class="image-cropper">
- <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/vlad-hosu.jpg?raw=true" class="rounded" />
+ <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/vlad-hosu.jpg?raw=true" class="rounded" /> 
+ <p>Vlad Hosu<br/>
+ University of Konstanz, Germany</p
 </div> 
 <div class="image-cropper">
  <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/weisi-lin.jpg?raw=true" class="rounded" /> 
+ <p>Weisi Lin<br/>
+ NTU, Singapore</p>
 </div> 
 <div class="image-cropper">
  <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/dietmar-saupe.jpg?raw=true" class="rounded" />
+ <p>Dietmar Saupe<br/>
+ University of Konstanz, Germany</p>
 </div> 
 <div class="image-cropper">
  <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/john-see.jpg?raw=true" class="rounded" />
+ <p>John See<br/>
+ MMU, Malaysia</p>
 </div> 
 <div class="image-cropper">
  <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/lai-kuan-wong.jpg?raw=true" class="rounded" />
+ <p>Lai-Kuan Wong<br/>
+ MMU, Malaysia</p>
 </div>
-
-| General Chairs | Institution |
-| :--- | :--- |
-| Wen-Huang Cheng | NCTU, Taiwan|
-| Bastian Goldlücke | University of Konstanz, Germany|
-| Vlad Hosu | University of Konstanz, Germany|
-| Weisi Lin | NTU, Singapore|
-| Dietmar Saupe | University of Konstanz, Germany|
-| John See | MMU, Malaysia|
-| Lai-Kuan Wong | MMU, Malaysia|
 
