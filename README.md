@@ -64,7 +64,7 @@ To be announced.
 
 
 
-<table id="page">
+<table id="page" style="position:relative; left=-20px">
     <tr>
      <td id="page"><img src="assets/images/wen-huang.png?raw=true" class="profile"/></td>
      <td id="page"><img src="assets/images/bastian-goldlueke.png?raw=true" class="profile"/></td>
@@ -75,13 +75,13 @@ To be announced.
      <td id="page"><img src="assets/images/lai-kuan-wong.png?raw=true" class="profile"/></td>
     </tr>
     <tr>
-     <td width="100px"> Wen-Huang Cheng<br/> NCTU, Taiwan </td>
-     <td width="100px"> Bastian Goldlücke<br/> Uni Konstanz, Germany </td>
-     <td width="100px"> Vlad Hosu<br/> Uni Konstanz, Germany </td>
-     <td width="100px"> Weisi Lin<br/> NTU, Singapore </td>
-     <td width="100px"> Dietmar Saupe<br/> Uni Konstanz, Germany </td>
-     <td width="100px"> John See<br/> MMU, Malaysia </td>
-     <td width="100px"> Lai-Kuan Wong<br/> MMU, Malaysia </td>
+     <td width="90px"> Wen-Huang Cheng<br/> NCTU, Taiwan </td>
+     <td width="90px"> Bastian Goldlücke<br/> Uni-KN, Germany </td>
+     <td width="90px"> Vlad Hosu<br/> Uni-KN, Germany </td>
+     <td width="90px"> Weisi Lin<br/> NTU, Singapore </td>
+     <td width="90px"> Dietmar Saupe<br/> Uni-KN, Germany </td>
+     <td width="90px"> John See<br/> MMU, Malaysia </td>
+     <td width="90px"> Lai-Kuan Wong<br/> MMU, Malaysia </td>
     </tr>
 </table>
 
