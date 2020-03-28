@@ -16,9 +16,9 @@ The scope of this workshop spans:
  
 Authors are invited to submit a full paper (two-column format, 6-8 pages) electronically according to the guidelines available on the conference website at [2020.acmmm.org](https://2020.acmmm.org/).
 
-
+<br/>
 ***
-
+<br/>
 
 ### Important dates
 
@@ -32,9 +32,9 @@ All deadlines are at midnight (23:59) Anywhere on Earth.
 
 > _As of 28th March 2020, there are no changes for the workshop paper submission deadlines. Unless we hear anything different from the Conference organizers, the dates are as advertised before._
 
-
+<br/>
 ***
-
+<br/>
 
 ### Paper submission
 
