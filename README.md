@@ -64,7 +64,7 @@ To be announced.
 
 
 
-<table>
+<table width="100%">
     <tr>
      <td><img src="assets/images/wen-huang.png?raw=true" class="profile"/></td>
      <td><img src="assets/images/bastian-goldlueke.png?raw=true" class="profile"/></td>
