@@ -39,6 +39,6 @@ table, tr, td {
    margin: 0;
 }
 header {
- background-image:url("assets/images/adrien-olichon-unsplash-edit.jpg");
+ background-image:url('{{ site.baseurl }}/assets/images/adrien-olichon-unsplash-edit.jpg');
  background-repeat:no-repeat;
 }
