@@ -62,6 +62,10 @@ To be announced.
 
 ### Organizers
 
+<div class="image-cropper">
+    <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/john-see.jpg?raw=true)" class="rounded" />
+</div>
+
 | General Chairs | Institution |
 | :--- | :--- |
 | Wen-Huang Cheng | NCTU, Taiwan|
