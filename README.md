@@ -62,20 +62,18 @@ To be announced.
 
 ### Organizers
 
-<div class="image-cropper">
- <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/wen-huang.jpg?raw=true" class="rounded" />
- <p>Wen-Huang Cheng<br/>
- NCTU, Taiwan</p>
-</div> 
-<div class="image-cropper">
- <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/bastian-goldlueke.jpg?raw=true" class="rounded" />
- <p>Bastian Goldlücke<br/>
- University of Konstanz, Germany</p
-</div> 
-<div class="image-cropper">
+<img src="https://github.com/subpic/ATQAM/blob/master/assets/images/wen-huang.jpg?raw=true" class="rounded" />
+<p>Wen-Huang Cheng<br/>
+NCTU, Taiwan</p>
+
+<img src="https://github.com/subpic/ATQAM/blob/master/assets/images/bastian-goldlueke.jpg?raw=true" class="rounded" />
+<p>Bastian Goldlücke<br/>
+University of Konstanz, Germany</p>
+  
+<!---<div class="image-cropper">
  <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/vlad-hosu.jpg?raw=true" class="rounded" /> 
  <p>Vlad Hosu<br/>
- University of Konstanz, Germany</p
+University of Konstanz, Germany</p>
 </div> 
 <div class="image-cropper">
  <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/weisi-lin.jpg?raw=true" class="rounded" /> 
@@ -96,6 +94,6 @@ To be announced.
  <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/lai-kuan-wong.jpg?raw=true" class="rounded" />
  <p>Lai-Kuan Wong<br/>
  MMU, Malaysia</p>
-</div>
+</div>-->
 
 ---
