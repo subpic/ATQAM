@@ -68,13 +68,13 @@ To be announced.
 
 <table id="page">
     <tr>
-     <td id="page"><img src="assets/images/wen-huang.png?raw=true" class="profile"/></td>
-     <td id="page"><img src="assets/images/bastian-goldlueke.png?raw=true" class="profile"/></td>
-     <td id="page"><img src="assets/images/vlad-hosu.png?raw=true" class="profile"/></td>
-     <td id="page"><img src="assets/images/weisi-lin.png?raw=true" class="profile"/></td>
-     <td id="page"><img src="assets/images/dietmar-saupe.png?raw=true" class="profile"/></td>
-     <td id="page"><img src="assets/images/john-see.png?raw=true" class="profile"/></td>
-     <td id="page"><img src="assets/images/lai-kuan-wong.png?raw=true" class="profile"/></td>
+     <td id="page"><img src="assets/images/wen-huang.png" class="profile"/></td>
+     <td id="page"><img src="assets/images/bastian-goldlueke.png" class="profile"/></td>
+     <td id="page"><img src="assets/images/vlad-hosu.png" class="profile"/></td>
+     <td id="page"><img src="assets/images/weisi-lin.png" class="profile"/></td>
+     <td id="page"><img src="assets/images/dietmar-saupe.png" class="profile"/></td>
+     <td id="page"><img src="assets/images/john-see.png" class="profile"/></td>
+     <td id="page"><img src="assets/images/lai-kuan-wong.png" class="profile"/></td>
     </tr>
     <tr align="top">
      <td width="80px"> <a href="http://aimmlab.nctu.edu.tw/whcheng/index.html">Wen-Huang<br/> Cheng</a><br/> NCTU,<br/> Taiwan </td>
