@@ -69,7 +69,7 @@ To be announced.
      <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/wen-huang.jpg?raw=true" class="rounded" /></td>
      <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/bastian-goldlueke.jpg?raw=true" class="rounded" /></td>
      <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/vlad-hosu.jpg?raw=true" class="rounded" /></td>
-     <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/weisi-lin.jpg?raw=true" class="rounded" /></td>
+     <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/weisi-lin.png?raw=true" class="rounded" /></td>
      <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/dietmar-saupe.jpg?raw=true" class="rounded" /></td>
      <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/john-see.jpg?raw=true" class="rounded" /></td>
      <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/lai-kuan-wong.jpg?raw=true" class="rounded" /></td>
@@ -84,32 +84,5 @@ To be announced.
      <td width="200px"> Lai-Kuan Wong<br/> MMU, Malaysia </td>
     </tr>
 </table>
-
-  
-<!---<div class="image-cropper">
- <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/vlad-hosu.jpg?raw=true" class="rounded" /> 
- <p>Vlad Hosu<br/>
-University of Konstanz, Germany</p>
-</div> 
-<div class="image-cropper">
- <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/weisi-lin.jpg?raw=true" class="rounded" /> 
- <p>Weisi Lin<br/>
- NTU, Singapore</p>
-</div> 
-<div class="image-cropper">
- <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/dietmar-saupe.jpg?raw=true" class="rounded" />
- <p>Dietmar Saupe<br/>
- University of Konstanz, Germany</p>
-</div> 
-<div class="image-cropper">
- <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/john-see.jpg?raw=true" class="rounded" />
- <p>John See<br/>
- MMU, Malaysia</p>
-</div> 
-<div class="image-cropper">
- <img src="https://github.com/subpic/ATQAM/blob/master/assets/images/lai-kuan-wong.jpg?raw=true" class="rounded" />
- <p>Lai-Kuan Wong<br/>
- MMU, Malaysia</p>
-</div>-->
 
 ---
