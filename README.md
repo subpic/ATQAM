@@ -1,4 +1,8 @@
+## Overview
+
 Every day over 450 million photos and videos are being uploaded to Facebook and Instagram. The exponential growth of visual media has made quality assessment become increasingly important for various applications, including image and video acquisition, synthesis, restoration, enhancement, search and retrieval, storage, and recognition. Broadly, visual quality assessment techniques can be divided into image and video technical quality assessment (IQA and VQA, or broadly TQA) and aesthetics quality assessment (AQA). TQA focuses on the effect of image-level technical aspects of perceived quality, such as sharpness, noise, color reproduction, contrast, dynamic range, and others. On the other hand, AQA deals with more abstract aesthetics-related quality factors that capture the subjective aesthetics experience. Aesthetics judgments are associated with the adherence to established photographic rules encompassing lighting (emphasis, contrast), composition, colors, and more. Even though these topics have mostly been studied independently, they represent tightly related aspects of the same underlying subjective experience of media items, value judgments. This workshop aims to bring together individuals in the two fields of TQA and AQA for sharing of ideas and discussions on current trends, developments, issues, and future directions, with the vision to accelerate the progress of research in both fields. Our hope is that bridging TQA and AQA, will result in a better understanding of quantitative measures of quality of experience in the broader context of multimedia applications.
+
+### Scope 
 
 The scope of this workshop spans:
 * Analysis and prediction of aesthetic and technical visual quality, encompassing absolute and comparative judgments about visual media:
@@ -22,17 +26,21 @@ Authors are invited to submit a full paper (two-column format, 6-8 pages) electr
 
 <br/>
 
-### Important dates
+## Important dates
 
-| Deadline | Date |
+|  |  |
 | :--- |---: |
 | Submission Deadline for Workshop Papers       |  7th July 2020   |
 | Notification of Acceptance of Workshop Papers | 28th July 2020   |
 | Workshop Camera-Ready Papers Due by           |  7th August 2020 |
+|  |  |
 
 All deadlines are at midnight (23:59) Anywhere on Earth.
 
-> _As of 28th March 2020, there are no changes for the workshop paper submission deadlines. Unless we hear anything different from the Conference organizers, the dates are as advertised before._
+```
+As of 28th March 2020, there are no changes for the workshop paper submission deadlines. 
+Unless we hear anything different from the Conference organizers, the dates are as advertised before.
+```
 
 <br/>
 
@@ -40,7 +48,7 @@ All deadlines are at midnight (23:59) Anywhere on Earth.
 
 <br/>
 
-### Paper submission
+## Paper submission
 
 We use the same formatting template as ACM Multimedia 2019 and we seek two kind of submissions:
 
@@ -48,11 +56,13 @@ Original contributions: full 6-8 page paper submissions (not including reference
 Extended abstracts: with preliminary results, 2-page submissions (not including references).
 All contributions must be submitted through CMT using the following link: [cmt3.research.microsoft.com/ATQAM](https://cmt3.research.microsoft.com/ATQAM)
 
-&NewLine;
-***
-&NewLine;
+<br/>
 
-### Invited speakers
+***
+
+<br/>
+
+## Invited speakers
 
 <img src="assets/images/alan-bovik.png" alt="Alan Conrad Bovik" class="speaker"/>
 
@@ -72,7 +82,7 @@ Talk title and abstract: TBA.
 
 <br/>
 
-### Program
+## Program
 
 To be announced.
 
@@ -82,7 +92,7 @@ To be announced.
 
 <br/>
 
-### Organizers
+## Organizers
 
 <table id="page">
     <tr>
