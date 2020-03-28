@@ -3,4 +3,4 @@ theme: jekyll-theme-slate
 title: ATQAM Workshop @ ACM MM 2020
 description: 1st Workshop on Aesthetic and Technical Quality Assessment of Multimedia
 
-show_downloads: "false"
+show_downloads: false
