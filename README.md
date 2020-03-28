@@ -32,9 +32,9 @@ All deadlines are at midnight (23:59) Anywhere on Earth.
 
 > _As of 28th March 2020, there are no changes for the workshop paper submission deadlines. Unless we hear anything different from the Conference organizers, the dates are as advertised before._
 
-<br/>
+&NewLine;
 ***
-<br/>
+&NewLine;
 
 ### Paper submission
 
@@ -44,9 +44,9 @@ Original contributions: full 6-8 page paper submissions (not including reference
 Extended abstracts: with preliminary results, 2-page submissions (not including references).
 All contributions must be submitted through CMT using the following link: [cmt3.research.microsoft.com/ATQAM](https://cmt3.research.microsoft.com/ATQAM)
 
-<br/>
+&NewLine;
 ***
-<br/>
+&NewLine;
 
 ### Invited speakers
 
@@ -62,18 +62,18 @@ Talk title and abstract: TBA.
 
 Talk title and abstract: TBA.
 
-<br/>
+&NewLine;
 ***
-<br/>
+&NewLine;
 
 
 ### Program
 
 To be announced.
 
-<br/>
+&NewLine;
 ***
-<br/>
+&NewLine;
 
 ### Organizers
 
