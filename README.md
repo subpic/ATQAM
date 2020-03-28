@@ -20,12 +20,46 @@ The scope of this workshop spans:
   * Applications to media such as light fields, 360 or stereo, point clouds.
  
 Authors are invited to submit a full paper (two-column format, max. 8 pages) electronically according to the guidelines available on the conference website at https://2020.acmmm.org/.
- 
-### IMPORTANT DATES
+
+---
+
+### Important dates
 
 | Deadline | Date |
 | :--- |---: |
 | Submission Deadline for Workshop Papers       |  7th July 2020   |
 | Notification of Acceptance of Workshop Papers | 28th July 2020   |
 | Workshop Camera-Ready Papers Due by           |  7th August 2020 |
+
+---
+
+### Paper submission
+
+[TODO]
+
+---
+
+### Invited talks
+
+To be announced.
+
+---
+
+### Program
+
+To be announced.
+
+---
+
+### Organizers
+
+| General Chairs | Institution |
+| :--- | :--- |
+| Wen-Huang Cheng | NCTU, Taiwan|
+| Bastian Goldlücke | University of Konstanz, Germany|
+| Vlad Hosu | University of Konstanz, Germany|
+| Weisi Lin | NTU, Singapore|
+| Dietmar Saupe | University of Konstanz, Germany|
+| John See | MMU, Malaysia|
+| Lai-Kuan Wong | MMU, Malaysia|
 
