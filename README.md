@@ -22,8 +22,6 @@ Authors are invited to submit a full paper (two-column format, 6-8 pages) electr
 
 <br/>
 
-***
-
 <br/>
 
 ## Important dates
@@ -37,14 +35,10 @@ Authors are invited to submit a full paper (two-column format, 6-8 pages) electr
 
 All deadlines are at midnight (23:59) Anywhere on Earth.
 
-```
-As of 28th March 2020, there are no changes for the workshop paper submission deadlines. 
+> As of 28th March 2020, there are no changes for the workshop paper submission deadlines. 
 Unless we hear anything different from the Conference organizers, the dates are as advertised before.
-```
 
 <br/>
-
-***
 
 <br/>
 
@@ -58,8 +52,6 @@ All contributions must be submitted through CMT using the following link: [cmt3.
 
 <br/>
 
-***
-
 <br/>
 
 ## Invited speakers
@@ -68,17 +60,15 @@ All contributions must be submitted through CMT using the following link: [cmt3.
 
 [Alan Conrad Bovik](http://www.ece.utexas.edu/people/faculty/alan-bovik) is an American engineer and vision scientist. He is a Professor at The University of Texas at Austin (UT-Austin), where he holds the Cockrell Family Regents Endowed Chair and is Director of the Laboratory for Image and Video Engineering. He is a faculty member in the UT-Austin Department of Electrical and Computer Engineering, the Institute for Neuroscience, and the Wireless Networking and Communications Group. Bovik won a Primetime Emmy Award in 2015 for his development of video quality measurement tools that are now standards in television production. Two of Bovik's research publications in the area of visual image quality have been recognized as 2017 Google Scholar Classic Papers, which are selected for being highly-cited papers that have stood the test of time, and are among the ten most-cited articles in their area of research published ten years earlier.
 
-Talk title and abstract: TBA.
+_Talk title and abstract: TBA._
 
 <img src="assets/images/james-wang.png" alt="James Z. Wang" class="speaker"/>
 
 [James Z. Wang](http://infolab.stanford.edu/~wangz/home/) is a professor at Pennsylvania State University. Wang's research seeks to advance knowledge through modeling objects, concepts, aesthetics, and emotions in big visual data. He is well-known for his pioneering research in the field of aesthetics quality assessment. His research team have developed the ACQUINE aesthetic quality inference engine, SIMPLIcity semantics-sensitive image retrieval system, the ALIPR real-time computerized image tagging system, which are all widely cited. His research has been reported widely by significant media, including Discovery, Scientific American, MIT Tech Review, Public Radio, NPR, and CBS. Wang also received an NSF Career award and the endowed PNC Technologies Career Development Professorship.
 
-Talk title and abstract: TBA.
+_Talk title and abstract: TBA._
 
 <br/>
-
-***
 
 <br/>
 
@@ -87,8 +77,6 @@ Talk title and abstract: TBA.
 To be announced.
 
 <br/>
-
-***
 
 <br/>
 
