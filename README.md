@@ -31,6 +31,8 @@ Authors are invited to submit a full paper (two-column format, max. 8 pages) ele
 | Notification of Acceptance of Workshop Papers | 28th July 2020   |
 | Workshop Camera-Ready Papers Due by           |  7th August 2020 |
 
+All deadlines are at midnight (23:59) Anywhere on Earth.
+
 ---
 
 ### Paper submission
