@@ -1,5 +1,3 @@
-## The 1st Workshop on Aesthetic and Technical Quality Assessment of Multimedia
-
 ### In conjunction with ACM Multimedia 2020
 ### 12-16 October 2020 • Seattle, US
 
