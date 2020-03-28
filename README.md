@@ -64,15 +64,15 @@ To be announced.
 
 
 
-<table width="100%">
+<table id="page">
     <tr>
-     <td><img src="assets/images/wen-huang.png?raw=true" class="profile"/></td>
-     <td><img src="assets/images/bastian-goldlueke.png?raw=true" class="profile"/></td>
-     <td><img src="assets/images/vlad-hosu.png?raw=true" class="profile"/></td>
-     <td><img src="assets/images/weisi-lin.png?raw=true" class="profile"/></td>
-     <td><img src="assets/images/dietmar-saupe.png?raw=true" class="profile"/></td>
-     <td><img src="assets/images/john-see.png?raw=true" class="profile"/></td>
-     <td><img src="assets/images/lai-kuan-wong.png?raw=true" class="profile"/></td>
+     <td id="page"><img src="assets/images/wen-huang.png?raw=true" class="profile"/></td>
+     <td id="page"><img src="assets/images/bastian-goldlueke.png?raw=true" class="profile"/></td>
+     <td id="page"><img src="assets/images/vlad-hosu.png?raw=true" class="profile"/></td>
+     <td id="page"><img src="assets/images/weisi-lin.png?raw=true" class="profile"/></td>
+     <td id="page"><img src="assets/images/dietmar-saupe.png?raw=true" class="profile"/></td>
+     <td id="page"><img src="assets/images/john-see.png?raw=true" class="profile"/></td>
+     <td id="page"><img src="assets/images/lai-kuan-wong.png?raw=true" class="profile"/></td>
     </tr>
     <tr>
      <td width="100px"> Wen-Huang Cheng<br/> NCTU, Taiwan </td>
