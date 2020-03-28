@@ -16,9 +16,9 @@ The scope of this workshop spans:
  
 Authors are invited to submit a full paper (two-column format, 6-8 pages) electronically according to the guidelines available on the conference website at [2020.acmmm.org](https://2020.acmmm.org/).
 
-<br/>
+&NewLine;
 ***
-<br/>
+&NewLine;
 
 ### Important dates
 
