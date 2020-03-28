@@ -39,10 +39,10 @@ table, tr, td {
    margin: 0;
 }
 
-#header_wrap {
+#header_wrap #footer_wrap {
  background-image:url('{{ site.baseurl }}/assets/images/adrien-olichon-unsplash-edit.jpg');
  background-repeat:no-repeat;
- background-position: bottom center;
+ background-position: center bottom;
  background-attachment: fixed;
  background-size: cover;
 }
