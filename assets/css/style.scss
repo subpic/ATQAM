@@ -17,4 +17,6 @@ img.rounded {
   width: 100px;
 }
 
-table {border: none;}
+table, tr, td {
+    border: none;
+}
