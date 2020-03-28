@@ -66,13 +66,13 @@ To be announced.
 
 <table>
     <tr>
-     <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/wen-huang.jpg?raw=true" class="rounded" /></td>
-     <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/bastian-goldlueke.jpg?raw=true" class="rounded" /></td>
-     <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/vlad-hosu.jpg?raw=true" class="rounded" /></td>
-     <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/weisi-lin.png?raw=true" class="rounded" /></td>
-     <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/dietmar-saupe.jpg?raw=true" class="rounded" /></td>
-     <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/john-see.jpg?raw=true" class="rounded" /></td>
-     <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/lai-kuan-wong.jpg?raw=true" class="rounded" /></td>
+     <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/wen-huang.jpg?raw=true" /></td>
+     <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/bastian-goldlueke.jpg?raw=true" /></td>
+     <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/vlad-hosu.jpg?raw=true" /></td>
+     <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/weisi-lin.png?raw=true" /></td>
+     <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/dietmar-saupe.jpg?raw=true" /></td>
+     <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/john-see.jpg?raw=true" /></td>
+     <td><img src="https://github.com/subpic/ATQAM/blob/master/assets/images/lai-kuan-wong.jpg?raw=true" /></td>
     </tr>
     <tr>
      <td width="200px"> Wen-Huang Cheng<br/> NCTU, Taiwan </td>
