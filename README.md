@@ -93,5 +93,7 @@ To be announced.
     </tr>
 </table>
 
+#### Primary contacts
 
+Email either [Vlad Hosu](mailto:vlad.hosu@uni-konstanz.de) or [Lai Kuan Wong](mailto:lkwong@mmu.edu.my).
 
