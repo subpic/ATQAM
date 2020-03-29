@@ -26,9 +26,9 @@ Authors are invited to submit a full paper (two-column format, 6-8 pages) electr
 
 |  |  |
 | :--- |---: |
-| Submission Deadline for Workshop Papers       |  7th July 2020   |
-| Notification of Acceptance of Workshop Papers | 28th July 2020   |
-| Workshop Camera-Ready Papers Due by           |  7th August 2020 |
+| Submission Deadline for Workshop Papers       |  29th June 2020   |
+| Notification of Acceptance of Workshop Papers | 2nd August 2020   |
+| Workshop Camera-Ready Papers Due by           |  16th August 2020 |
 
 All deadlines are at midnight (23:59) Anywhere on Earth.
 
@@ -55,12 +55,13 @@ All contributions must be submitted through CMT using the following link: [cmt3.
 
 _Talk title and abstract: TBA._
 
+<!-- 
 <img src="assets/images/james-wang.png" alt="James Z. Wang" class="speaker"/>
 
 [James Z. Wang](http://infolab.stanford.edu/~wangz/home/) is a professor at Pennsylvania State University. Wang's research seeks to advance knowledge through modeling objects, concepts, aesthetics, and emotions in big visual data. He is well-known for his pioneering research in the field of aesthetics quality assessment. His research team have developed the ACQUINE aesthetic quality inference engine, SIMPLIcity semantics-sensitive image retrieval system, the ALIPR real-time computerized image tagging system, which are all widely cited. His research has been reported widely by significant media, including Discovery, Scientific American, MIT Tech Review, Public Radio, NPR, and CBS. Wang also received an NSF Career award and the endowed PNC Technologies Career Development Professorship.
 
 _Talk title and abstract: TBA._
-
+-->
 <br/>
 
 ## Program
