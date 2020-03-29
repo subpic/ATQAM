@@ -54,12 +54,12 @@ table {
 }
 
 #footer_wrap {
- background-image:url('{{ site.baseurl }}/assets/images/background-adrien-olichon-unsplash-bottom.jpg');
+ background-image:url('{{ site.baseurl }}/assets/images/background-adrien-olichon-unsplash-bottom-0.5opacity.jpg');
  background-repeat:no-repeat;
  background-position: center top;
  background-attachment: fixed;
  background-size: 100% 100%;
- opacity: 0.5;
+ //opacity: 0.5;
 }
 
 /*hr { 
