@@ -46,17 +46,17 @@ table {
 
 // image credit: Photo by Adrien Olichon on Unsplash (https://unsplash.com/photos/WNs0bW8kHTM)
 #header_wrap {
- background-image:url('{{ site.baseurl }}/assets/images/adrien-olichon-unsplash-edit.jpg');
+ background-image:url('{{ site.baseurl }}/assets/images/background-adrien-olichon-unsplash-top.jpg');
  background-repeat:no-repeat;
- background-position: center bottom;
+ background-position: center top;
  background-attachment: fixed;
  background-size: 100% 100%;
 }
 
-#footer_wrap {
- background-image:url('{{ site.baseurl }}/assets/images/adrien-olichon-unsplash-edit.jpg');
+footer_wrap {
+ background-image:url('{{ site.baseurl }}/assets/images/background-adrien-olichon-unsplash-bottom.jpg');
  background-repeat:no-repeat;
- background-position: center center;
+ background-position: center bottom;
  background-attachment: fixed;
  background-size: 100% 100%;
 }
