@@ -99,9 +99,13 @@ To be announced.
       Lai-Kuan<br/> Wong</a><br/> MMU, Malaysia </td>
     </tr>
     <tr align="top">
-     <td/> <td/> <td><a href="mailto:vlad.hosu@uni-konstanz.de"><img src="assets/images/email-icon.png" style="width:50px"/></a></td> <td/> <td/> <td/> <td/> 
+     <td/> <td/> 
+     <td><a href="mailto:vlad.hosu@uni-konstanz.de"><img src="assets/images/email-icon.png" style="width:25px"/></a></td> 
+     <td/> <td/> 
+     <td><a href="mailto:johnsee@mmu.edu.my"><img src="assets/images/email-icon.png" style="width:25px"/></a></td>
+     <td><a href="mailto:lkwong@mmu.edu.my"><img src="assets/images/email-icon.png" style="width:25px"/></a></td>
     </tr>
 </table>
 
-**Primary contacts**: [Vlad Hosu](mailto:vlad.hosu@uni-konstanz.de), [John See](mailto:johnsee@mmu.edu.my), [Lai Kuan Wong](mailto:lkwong@mmu.edu.my).
+<!--**Primary contacts**: [Vlad Hosu](mailto:vlad.hosu@uni-konstanz.de), [John See](mailto:johnsee@mmu.edu.my), [Lai Kuan Wong](mailto:lkwong@mmu.edu.my).-->
 
