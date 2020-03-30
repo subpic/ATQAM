@@ -74,13 +74,13 @@ To be announced.
 
 <table id="profile">
     <tr>
-     <td><img src="assets/images/wen-huang.png" class="profile"/></td>
-     <td><img src="assets/images/bastian-goldlueke.png" class="profile"/></td>
-     <td><img src="assets/images/vlad-hosu.png" class="profile"/></td>
-     <td><img src="assets/images/weisi-lin.png" class="profile"/></td>
-     <td><img src="assets/images/dietmar-saupe.png" class="profile"/></td>
-     <td><img src="assets/images/john-see.png" class="profile"/></td>
-     <td><img src="assets/images/lai-kuan-wong.png" class="profile"/></td>
+     <td><a href="mailto:whcheng@nctu.edu.tw"><img src="assets/images/wen-huang.png" class="profile"/></a></td>
+     <td><a href="mailto:bastian.goldluecke@uni-konstanz.de"><img src="assets/images/bastian-goldlueke.png" class="profile"/></a></td>
+     <td><a href="mailto:vlad.hosu@uni-konstanz.de"><img src="assets/images/vlad-hosu.png" class="profile"/></a></td>
+     <td><a href="mailto:WSLin@ntu.edu.sg"><img src="assets/images/weisi-lin.png" class="profile"/></a></td>
+     <td><a href="mailto:dietmar.saupe@uni-konstanz.de"><img src="assets/images/dietmar-saupe.png" class="profile"/></a></td>
+     <td><a href="mailto:johnsee@mmu.edu.my"><img src="assets/images/john-see.png" class="profile"/></a></td>
+     <td><a href="mailto:lkwong@mmu.edu.my"><img src="assets/images/lai-kuan-wong.png" class="profile"/></a></td>
     </tr>
     <tr align="top">
      <td> <a href="http://aimmlab.nctu.edu.tw/whcheng/index.html">
@@ -98,13 +98,13 @@ To be announced.
      <td> <a href="https://mmuexpert.mmu.edu.my/lkwong">
       Lai-Kuan<br/> Wong</a><br/> MMU, Malaysia </td>
     </tr>
-    <tr align="top">
+    <!--<tr align="top">
      <td/> <td/> 
      <td><a href="mailto:vlad.hosu@uni-konstanz.de"><img src="assets/images/email-icon.png" style="width:25px"/></a></td> 
      <td/> <td/> 
      <td><a href="mailto:johnsee@mmu.edu.my"><img src="assets/images/email-icon.png" style="width:25px"/></a></td>
      <td><a href="mailto:lkwong@mmu.edu.my"><img src="assets/images/email-icon.png" style="width:25px"/></a></td>
-    </tr>
+    </tr>-->
 </table>
 
 **Primary contacts**: [Vlad Hosu](mailto:vlad.hosu@uni-konstanz.de), [John See](mailto:johnsee@mmu.edu.my) and [Lai Kuan Wong](mailto:lkwong@mmu.edu.my).
