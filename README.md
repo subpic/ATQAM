@@ -72,26 +72,26 @@ To be announced.
 
 ## Organizers
 
-<table id="page">
+<table id="profile">
     <tr>
-     <td id="page"><img src="assets/images/wen-huang.png" class="profile"/></td>
-     <td id="page"><img src="assets/images/bastian-goldlueke.png" class="profile"/></td>
-     <td id="page"><img src="assets/images/vlad-hosu.png" class="profile"/></td>
-     <td id="page"><img src="assets/images/weisi-lin.png" class="profile"/></td>
-     <td id="page"><img src="assets/images/dietmar-saupe.png" class="profile"/></td>
-     <td id="page"><img src="assets/images/john-see.png" class="profile"/></td>
-     <td id="page"><img src="assets/images/lai-kuan-wong.png" class="profile"/></td>
+     <td><img src="assets/images/wen-huang.png" class="profile"/></td>
+     <td><img src="assets/images/bastian-goldlueke.png" class="profile"/></td>
+     <td><img src="assets/images/vlad-hosu.png" class="profile"/></td>
+     <td><img src="assets/images/weisi-lin.png" class="profile"/></td>
+     <td><img src="assets/images/dietmar-saupe.png" class="profile"/></td>
+     <td><img src="assets/images/john-see.png" class="profile"/></td>
+     <td><img src="assets/images/lai-kuan-wong.png" class="profile"/></td>
     </tr>
     <tr align="top">
-     <td width="80px"> <a href="http://aimmlab.nctu.edu.tw/whcheng/index.html">Wen-Huang<br/> Cheng</a><br/> NCTU,<br/> Taiwan </td>
-     <td width="80px"> <a href="https://www.cvia.uni-konstanz.de/personen/prof-dr-bastian-goldluecke/">Bastian<br/> Goldlücke</a><br/> Uni-KN, Germany </td>
-     <td width="80px"> <a href="https://www.mmsp.uni-konstanz.de/people/overview/research-staff/vlad-hosu/">Vlad<br/> Hosu</a><br/> Uni-KN, Germany </td>
-     <td width="80px"> <a href="https://www.ntu.edu.sg/home/wslin/">Weisi<br/> Lin</a><br/> NTU, Singapore </td>
-     <td width="80px"> <a href="https://www.mmsp.uni-konstanz.de/people/overview/prof-dr-dietmar-saupe/">Dietmar<br/> Saupe</a><br/> Uni-KN, Germany </td>
-     <td width="80px"> <a href="https://mmuexpert.mmu.edu.my/johnsee">John<br/> See</a><br/> MMU, Malaysia </td>
-     <td width="80px"> <a href="https://mmuexpert.mmu.edu.my/lkwong">Lai-Kuan<br/> Wong</a><br/> MMU, Malaysia </td>
+     <td> <a href="http://aimmlab.nctu.edu.tw/whcheng/index.html">Wen-Huang<br/> Cheng</a><br/> NCTU,<br/> Taiwan </td>
+     <td> <a href="https://www.cvia.uni-konstanz.de/personen/prof-dr-bastian-goldluecke/">Bastian<br/> Goldlücke</a><br/> Uni-KN, Germany </td>
+     <td> <a href="https://www.mmsp.uni-konstanz.de/people/overview/research-staff/vlad-hosu/">Vlad<br/> Hosu</a><br/> Uni-KN, Germany </td>
+     <td> <a href="https://www.ntu.edu.sg/home/wslin/">Weisi<br/> Lin</a><br/> NTU, Singapore </td>
+     <td> <a href="https://www.mmsp.uni-konstanz.de/people/overview/prof-dr-dietmar-saupe/">Dietmar<br/> Saupe</a><br/> Uni-KN, Germany </td>
+     <td> <a href="https://mmuexpert.mmu.edu.my/johnsee">John<br/> See</a><br/> MMU, Malaysia </td>
+     <td> <a href="https://mmuexpert.mmu.edu.my/lkwong">Lai-Kuan<br/> Wong</a><br/> MMU, Malaysia </td>
     </tr>
 </table>
 
-
+**Primary contacts**: [Vlad Hosu](mailto:vlad.hosu@uni-konstanz.de), [John See](mailto:johnsee@mmu.edu.my), [Lai Kuan Wong](mailto:lkwong@mmu.edu.my).
 
