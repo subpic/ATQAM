@@ -24,7 +24,7 @@ Authors are invited to submit a full paper (two-column format, 6-8 pages) electr
 
 ## Important dates
 
-|  |  |
+|||
 | :--- |---: |
 | Submission Deadline for Workshop Papers       |  29th June 2020   |
 | Notification of Acceptance of Workshop Papers | 2nd August 2020   |
@@ -39,10 +39,7 @@ Unless we hear anything different from the Conference organizers, the dates are 
 
 ## Paper submission
 
-We use the same formatting template as ACM Multimedia 2019 and we seek two kind of submissions:
-
-Original contributions: full 6-8 page paper submissions (not including references).
-Extended abstracts: with preliminary results, 2-page submissions (not including references).
+We use the same formatting template as ACM Multimedia 2019 and seek original full 6-8 page paper submissions (not including references).
 All contributions must be submitted through CMT using the following link: [cmt3.research.microsoft.com/ATQAM](https://cmt3.research.microsoft.com/ATQAM)
 
 <br/>
