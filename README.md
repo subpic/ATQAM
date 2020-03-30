@@ -107,5 +107,5 @@ To be announced.
     </tr>
 </table>
 
-<!--**Primary contacts**: [Vlad Hosu](mailto:vlad.hosu@uni-konstanz.de), [John See](mailto:johnsee@mmu.edu.my), [Lai Kuan Wong](mailto:lkwong@mmu.edu.my).-->
+**Primary contacts**: [Vlad Hosu](mailto:vlad.hosu@uni-konstanz.de), [John See](mailto:johnsee@mmu.edu.my) and [Lai Kuan Wong](mailto:lkwong@mmu.edu.my).
 
