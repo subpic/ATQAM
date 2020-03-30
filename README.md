@@ -83,13 +83,23 @@ To be announced.
      <td><img src="assets/images/lai-kuan-wong.png" class="profile"/></td>
     </tr>
     <tr align="top">
-     <td> <a href="http://aimmlab.nctu.edu.tw/whcheng/index.html">Wen-Huang<br/> Cheng</a><br/> NCTU,<br/> Taiwan </td>
-     <td> <a href="https://www.cvia.uni-konstanz.de/personen/prof-dr-bastian-goldluecke/">Bastian<br/> Goldlücke</a><br/> Uni-KN, Germany </td>
-     <td> <a href="https://www.mmsp.uni-konstanz.de/people/overview/research-staff/vlad-hosu/">Vlad<br/> Hosu</a><br/> Uni-KN, Germany </td>
-     <td> <a href="https://www.ntu.edu.sg/home/wslin/">Weisi<br/> Lin</a><br/> NTU, Singapore </td>
-     <td> <a href="https://www.mmsp.uni-konstanz.de/people/overview/prof-dr-dietmar-saupe/">Dietmar<br/> Saupe</a><br/> Uni-KN, Germany </td>
-     <td> <a href="https://mmuexpert.mmu.edu.my/johnsee">John<br/> See</a><br/> MMU, Malaysia </td>
-     <td> <a href="https://mmuexpert.mmu.edu.my/lkwong">Lai-Kuan<br/> Wong</a><br/> MMU, Malaysia </td>
+     <td> <a href="http://aimmlab.nctu.edu.tw/whcheng/index.html">
+      Wen-Huang<br/> Cheng</a><br/> NCTU,<br/> Taiwan </td>
+     <td> <a href="https://www.cvia.uni-konstanz.de/personen/prof-dr-bastian-goldluecke/">
+      Bastian<br/> Goldlücke</a><br/> Uni-KN, Germany </td>
+     <td> <a href="https://www.mmsp.uni-konstanz.de/people/overview/research-staff/vlad-hosu/">
+      Vlad<br/> Hosu</a><br/> Uni-KN, Germany </td>
+     <td> <a href="https://www.ntu.edu.sg/home/wslin/">
+      Weisi<br/> Lin</a><br/> NTU, Singapore </td>
+     <td> <a href="https://www.mmsp.uni-konstanz.de/people/overview/prof-dr-dietmar-saupe/">
+      Dietmar<br/> Saupe</a><br/> Uni-KN, Germany </td>
+     <td> <a href="https://mmuexpert.mmu.edu.my/johnsee">
+      John<br/> See</a><br/> MMU, Malaysia </td>
+     <td> <a href="https://mmuexpert.mmu.edu.my/lkwong">
+      Lai-Kuan<br/> Wong</a><br/> MMU, Malaysia </td>
+    </tr>
+    <tr align="top">
+     <td/> <td/> <td><a href="mailto:vlad.hosu@uni-konstanz.de"><img src="assets/images/email-icon.png" style="width:50px"/></a></td> <td/> <td/> <td/> <td/> 
     </tr>
 </table>
 
