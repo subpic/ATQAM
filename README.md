@@ -15,7 +15,7 @@ The scope of this workshop spans:
 * **Datasets for TQA and AQA**, including:
   * New approaches to data collection procedures and sources
   * New data augmentation methods	
-* **Applications of T/AQA** in computer vision or image processing tasks:
+* **Applications of TQA and AQA** in computer vision or image processing tasks:
   * Visual filtering and retrieval (recommendation, image gallery/video)
   * Visual editing (recomposition, retargeting, cropping)
   * Assessment guided visual enhancement
