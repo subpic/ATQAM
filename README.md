@@ -42,6 +42,8 @@ Unless we hear anything different from the Conference organizers, the dates are 
 We use the same formatting template as ACM Multimedia 2019 and seek original full 6-8 page paper submissions (not including references).
 All contributions must be submitted through CMT using the following link: [cmt3.research.microsoft.com/ATQAM2020](https://cmt3.research.microsoft.com/ATQAM2020)
 
+Please find the <a href="assets/docs/ATQAM-CFP.pdf"><img src="assets/images/icons/paperclip.png" style="width:25px"/> call for papers here</a>.
+
 <br/>
 
 ## Invited speakers
