@@ -28,20 +28,19 @@ The scope of this workshop spans:
 
 |||
 | :--- |---: |
-| Submission Deadline for Workshop Papers       |  29th June 2020   |
-| Notification of Acceptance of Workshop Papers | 2nd August 2020   |
-| Workshop Camera-Ready Papers Due by           |  16th August 2020 |
+| Submission Deadline for Workshop Papers       |  July 30th 2020   |
+| Notification of Acceptance of Workshop Papers |  August 26th 2020   |
+| Workshop Camera-Ready Papers Due by           |  September 2nd 2020 |
 
 All deadlines are at midnight (23:59) Anywhere on Earth.
 
-> As of 28th March 2020, there are no changes for the workshop paper submission deadlines. 
-Unless we hear anything different from the Conference organizers, the dates are as advertised before.
+> These are the latest updates since April 22nd 2020. 
 
 <br/>
 
 ## Paper submission
 
-Authors are invited to submit a full paper (two-column format, 6-8 pages, not including references) electronically according to the guidelines available on the conference website at [2020.acmmm.org](https://2020.acmmm.org/). We use the same formatting template as ACM Multimedia 2019. All contributions must be submitted through CMT using the following link: [cmt3.research.microsoft.com/ATQAM2020](https://cmt3.research.microsoft.com/ATQAM2020)
+Authors are invited to submit a full paper (two-column format, 6-8 pages, not including references) electronically according to the guidelines available on the conference website at [2020.acmmm.org](https://2020.acmmm.org/). We use the same formatting template as ACM Multimedia 2019. All contributions must be submitted through CMT using the following link: [cmt3.research.microsoft.com/MMW2020](https://cmt3.research.microsoft.com/MMW2020).
 
 Please find the <a href="assets/docs/ATQAM-CFP.pdf"><img src="assets/images/icons/paperclip.png" style="width:25px"/> call for papers here</a>.
 
