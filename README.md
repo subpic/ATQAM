@@ -108,4 +108,4 @@ To be announced.
 **Primary contacts**: [Vlad Hosu](mailto:vlad.hosu@uni-konstanz.de), [John See](mailto:johnsee@mmu.edu.my) and [Lai Kuan Wong](mailto:lkwong@mmu.edu.my).
 
 ## Sponsors
-<img src="assets/images/sfbtrr161-logo.png" alt="SFB TRR 161" style="display: block; margin-left: auto; margin-right: auto; width: 50%"/>
+<a href="https://www.sfbtrr161.de/"><img src="assets/images/sfbtrr161-logo.png" alt="SFB TRR 161" style="display: block; margin-left: auto; margin-right: auto; width: 50%"/></a>
