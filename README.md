@@ -40,10 +40,10 @@ All deadlines are at midnight (23:59) Anywhere on Earth.
 
 ## Paper submission
 
-Authors are invited to submit a full paper (two-column format, 6-8 pages, not including references) electronically according to the guidelines available on the conference website at [2020.acmmm.org](https://2020.acmmm.org/). We use the same formatting template as ACM Multimedia 2019. All contributions must be submitted through CMT using the following link: [cmt3.research.microsoft.com/MMW2020](https://cmt3.research.microsoft.com/MMW2020).
+Authors are invited to submit a full paper (two-column format, 6-8 pages, not including references) electronically according to the guidelines available on the conference website at [2020.acmmm.org](https://2020.acmmm.org/). We use the same formatting template as ACM Multimedia 2019. All contributions must be submitted through CMT using the following link: [cmt3.research.microsoft.com/MMW2020](https://cmt3.research.microsoft.com/MMW2020).<br/>
+Accepted papers will be published in the ACM Digital Library alongside the ACM Multimedia main conference papers.
 
 Please find the <a href="assets/docs/ATQAM-CFP.pdf"><img src="assets/images/icons/paperclip.png" style="width:25px"/> call for papers here</a>.
-
 <br/>
 
 ## Invited speakers
