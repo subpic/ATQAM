@@ -107,5 +107,14 @@ To be announced.
 
 **Primary contacts**: [Vlad Hosu](mailto:vlad.hosu@uni-konstanz.de), [John See](mailto:johnsee@mmu.edu.my) and [Lai Kuan Wong](mailto:lkwong@mmu.edu.my).
 
-## Sponsors
+## Technical Program Committee
+
+* Seyed Ali	Amirshahi	- NTNU, Norway
+* Raouf	Hamzaoui	- De Montfort University, UK
+* Matthias Hirth -	TU Ilmenau, Germany
+* Shujun	Li	- University of Kent, UK
+* Hanhe	Lin	- University of Konstanz, Germany
+* Yuen Peng	Loh	- Multimedia University, Malaysia
+
+## Sponsor
 <a href="https://www.sfbtrr161.de/"><img src="assets/images/sfbtrr161-logo.png" alt="SFB TRR 161" style="display: block; margin-left: auto; margin-right: auto; width: 50%"/></a>
