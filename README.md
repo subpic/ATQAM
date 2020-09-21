@@ -31,10 +31,11 @@ The scope of this workshop spans:
 | Submission Deadline for Workshop Papers       |  ~~July 30th 2020~~ August 10th 2020  |
 | Notification of Acceptance of Workshop Papers |  August 26th 2020   |
 | Workshop Camera-Ready Papers Due by           |  September 2nd 2020 |
+| Workshop date                                 |  October 12th 2020 |
 
 All deadlines are at midnight (23:59) Anywhere on Earth.
 
-> These are the latest updates since July 29th 2020. 
+> These are the latest updates since September 21st 2020. 
 
 <br/>
 
@@ -52,19 +53,33 @@ Please find the <a href="assets/docs/ATQAM-CFP.pdf"><img src="assets/images/icon
 
 [Alan Conrad Bovik](http://www.ece.utexas.edu/people/faculty/alan-bovik) is an American engineer and vision scientist. He is a Professor at The University of Texas at Austin (UT-Austin), where he holds the Cockrell Family Regents Endowed Chair and is Director of the Laboratory for Image and Video Engineering. He is a faculty member in the UT-Austin Department of Electrical and Computer Engineering, the Institute for Neuroscience, and the Wireless Networking and Communications Group. Bovik won a Primetime Emmy Award in 2015 for his development of video quality measurement tools that are now standards in television production. Two of Bovik's research publications in the area of visual image quality have been recognized as 2017 Google Scholar Classic Papers, which are selected for being highly-cited papers that have stood the test of time, and are among the ten most-cited articles in their area of research published ten years earlier.
 
-_Talk title and abstract: TBA._
+_Talk title: "Speeding it Up: Perception of High-Frame Rate Videos"_
 
 <img src="assets/images/james-wang.png" alt="James Z. Wang" class="speaker"/>
 
 [James Z. Wang](http://infolab.stanford.edu/~wangz/home/) is a professor at Pennsylvania State University. Wang's research seeks to advance knowledge through modeling objects, concepts, aesthetics, and emotions in big visual data. He is well-known for his pioneering research in the field of aesthetics quality assessment. His research team have developed the ACQUINE aesthetic quality inference engine, SIMPLIcity semantics-sensitive image retrieval system, the ALIPR real-time computerized image tagging system, which are all widely cited. His research has been reported widely by significant media, including Discovery, Scientific American, MIT Tech Review, Public Radio, NPR, and CBS. Wang also received an NSF Career award and the endowed PNC Technologies Career Development Professorship.
 
-_Talk title and abstract: TBA._
+_Talk title: "Understanding Gender Stereotypes and Electoral Success from Visual Self-presentations of Politicians in Social Media"_
 
 <br/>
 
-## Program
+## Program (tentative)
 
-To be announced.
+
+Name of Session | Start Time | End Time
+-- | -- | --
+**Front Matter** | 8:00 AM | 8:05 AM
+**Keynote & Invited Talks** | 8:05 AM | 9:10 AM
+Speeding it Up: Perception of High-Frame Rate Videos | 8:05 AM | 8:50 AM
+Going Big or Going Precise: Considerations in building the next-gen VQA Database | 8:50 AM | 9:10 AM
+**Session 1** | 9:10 AM | 9:30 AM
+EVA: An Explainable Visual Aesthetics Dataset | 9:10 AM | 9:30 AM
+_Coffee Break_ | 9:30 AM | 9:40 AM
+**Keynote & Invited Talks** | 9:40 AM | 11:00 AM
+Modeling Aesthetics and Emotions in Visual Content - From Vincent van Gogh to Robotics and Vision | 9:40 AM | 10:20 AM
+Rating  Distribution & Personality Prediction for Image Aesthetics Assessment | 10:20 AM | 10:40 AM
+From Technical to Aesthetics Quality Assessment and Beyond: Challenges and Potential | 10:40 AM | 11:00 AM
+_Lunch Break_ |   |  
 
 <br/>
 
