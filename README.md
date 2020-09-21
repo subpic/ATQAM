@@ -71,15 +71,15 @@ Time | Session
 -- | -- 
 8:00 - 8:05 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Front Matter**
 8:05 - 9:10 AM | **Session 1: Keynote & Invited Talk**
-8:05 - 8:50 AM | Speeding it Up: Perception of High-Frame Rate Videos <br/> _Prof. Alan C. Bovik_
-8:50 - 9:10 AM | Going Big or Going Precise: Considerations in building the next-gen VQA Database <br/> _M.Sc. Franz Götz-Hahn_
+8:05 - 8:50 AM | Speeding it Up: Perception of High-Frame Rate Videos <br/> _Alan C. Bovik_
+8:50 - 9:10 AM | Going Big or Going Precise: Considerations in building the next-gen VQA Database <br/> _Franz Götz-Hahn_
 9:10 - 9:30 AM | **Session 2** 
 9:10 - 9:30 AM | EVA: An Explainable Visual Aesthetics Dataset <br/> _Chen Kang, Giuseppe Valenzise, Frederic Dufaux_
 | _Coffee Break_ 
 9:40 - 11:00 AM | **Session 3: Keynote & Invited Talks**
-9:40 - 10:20 AM | Modeling Aesthetics and Emotions in Visual Content - From Vincent van Gogh to Robotics and Vision <br/> _Prof. James Z. Wang_
-10:20 - 10:40 AM | Rating  Distribution & Personality Prediction for Image Aesthetics Assessment <br/> _Prof. Weisi Lin_
-10:40 - 11:00 AM | From Technical to Aesthetics Quality Assessment and Beyond: Challenges and Potential  <br/> _ATQAM Organizers_
+9:40 - 10:20 AM | Modeling Aesthetics and Emotions in Visual Content - From Vincent van Gogh to Robotics and Vision <br/> _James Z. Wang_
+10:20 - 10:40 AM | Rating  Distribution & Personality Prediction for Image Aesthetics Assessment <br/> _Weisi Lin_
+10:40 - 11:00 AM | From Technical to Aesthetics Quality Assessment and Beyond: Challenges and Potential  <br/> _Vlad Hosu, Dietmar Saupe, Bastian Goldlücke, Weisi Lin, Wen-Huang Cheng, John See, Lai-Kuan Wong_
 | _Lunch Break_ 
 
 <br/>
