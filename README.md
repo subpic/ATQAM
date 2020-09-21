@@ -65,7 +65,7 @@ _Talk title: "Understanding Gender Stereotypes and Electoral Success from Visual
 
 ## Program (tentative)
 
-ATQAM will take place from 8:00AM to 11:AM on the 12th of October 2020.
+ATQAM will take place from 8:00 AM to 11:00 AM on the 12th of October 2020.
 
 Name of Session | Time
 -- | -- 
