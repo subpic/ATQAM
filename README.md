@@ -31,7 +31,7 @@ The scope of this workshop spans:
 | Submission Deadline for Workshop Papers       |  ~~July 30th 2020~~ August 10th 2020  |
 | Notification of Acceptance of Workshop Papers |  August 26th 2020   |
 | Workshop Camera-Ready Papers Due by           |  September 2nd 2020 |
-| Workshop date                                 |  October 12th 2020 |
+| Workshop Date                                 |  October 12th 2020 |
 
 All deadlines are at midnight (23:59) Anywhere on Earth.
 
