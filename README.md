@@ -69,7 +69,7 @@ ATQAM will take place from 8:00 AM to 11:00 AM on the 12th of October 2020.
 
 Name of Session | Time 
 -- | -- 
-**Front Matter** | 8:00 - 8:05 <img width=50/>
+**Front Matter** | 8:00 - 8:05 <div width=50/>
 **Keynote & Invited Talks** | 8:05 - 9:10
 Speeding it Up: Perception of High-Frame Rate Videos | 8:05 - 8:50
 Going Big or Going Precise: Considerations in building the next-gen VQA Database | 8:50 - 9:10
