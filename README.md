@@ -65,21 +65,22 @@ _Talk title: "Understanding Gender Stereotypes and Electoral Success from Visual
 
 ## Program (tentative)
 
+ATQAM will take place from 8:00AM to 11:AM on the 12th of October 2020.
 
-Name of Session | Start Time | End Time
--- | -- | --
-**Front Matter** | 8:00 AM | 8:05 AM
-**Keynote & Invited Talks** | 8:05 AM | 9:10 AM
-Speeding it Up: Perception of High-Frame Rate Videos | 8:05 AM | 8:50 AM
-Going Big or Going Precise: Considerations in building the next-gen VQA Database | 8:50 AM | 9:10 AM
-**Session 1** | 9:10 AM | 9:30 AM
-EVA: An Explainable Visual Aesthetics Dataset | 9:10 AM | 9:30 AM
-_Coffee Break_ | 9:30 AM | 9:40 AM
-**Keynote & Invited Talks** | 9:40 AM | 11:00 AM
-Modeling Aesthetics and Emotions in Visual Content - From Vincent van Gogh to Robotics and Vision | 9:40 AM | 10:20 AM
-Rating  Distribution & Personality Prediction for Image Aesthetics Assessment | 10:20 AM | 10:40 AM
-From Technical to Aesthetics Quality Assessment and Beyond: Challenges and Potential | 10:40 AM | 11:00 AM
-_Lunch Break_ |   |  
+Name of Session | Time
+-- | -- 
+**Front Matter** | 8:00 - 8:05 AM
+**Keynote & Invited Talks** | 8:05 - 9:10 AM
+Speeding it Up: Perception of High-Frame Rate Videos | 8:05 - 8:50 AM
+Going Big or Going Precise: Considerations in building the next-gen VQA Database | 8:50 - 9:10 AM
+**Session 1** | 9:10 - 9:30 AM
+EVA: An Explainable Visual Aesthetics Dataset | 9:10 - 9:30 AM
+_Coffee Break_ | 9:30 - 9:40 AM
+**Keynote & Invited Talks** | 9:40 - 11:00 AM
+Modeling Aesthetics and Emotions in Visual Content - From Vincent van Gogh to Robotics and Vision | 9:40 - 10:20 AM
+Rating  Distribution & Personality Prediction for Image Aesthetics Assessment | 10:20 - 10:40 AM
+From Technical to Aesthetics Quality Assessment and Beyond: Challenges and Potential | 10:40 - 11:00 AM
+_Lunch Break_ |    
 
 <br/>
 
