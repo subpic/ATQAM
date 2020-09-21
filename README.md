@@ -65,22 +65,22 @@ _Talk title: "Understanding Gender Stereotypes and Electoral Success from Visual
 
 ## Program (tentative)
 
-ATQAM will take place from 8:00 AM to 11:00 AM on the 12th of October 2020.
+ATQAM will take place from 8:00 AM to 11:00 AM (Eastern Time) on the 12th of October 2020.
 
-Name of Session | Time 
+Time | Session
 -- | -- 
-**Front Matter** | 8:00 - 8:05 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-**Keynote & Invited Talks** | 8:05 - 9:10
-Speeding it Up: Perception of High-Frame Rate Videos | 8:05 - 8:50
-Going Big or Going Precise: Considerations in building the next-gen VQA Database | 8:50 - 9:10
-**Session 1** | 9:10 - 9:30
-EVA: An Explainable Visual Aesthetics Dataset | 9:10 - 9:30
-_Coffee Break_ | 9:30 - 9:40
-**Keynote & Invited Talks** | 9:40 - 11:00
-Modeling Aesthetics and Emotions in Visual Content - From Vincent van Gogh to Robotics and Vision | 9:40 - 10:20
-Rating  Distribution & Personality Prediction for Image Aesthetics Assessment | 10:20 - 10:40
-From Technical to Aesthetics Quality Assessment and Beyond: Challenges and Potential | 10:40 - 11:00
-_Lunch Break_ |    
+8:00 - 8:05 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Front Matter**
+8:05 - 9:10 AM | **Keynote & Invited Talks**
+8:05 - 8:50 AM | Speeding it Up: Perception of High-Frame Rate Videos <br/> _Prof. Alan C. Bovik_
+8:50 - 9:10 AM | Going Big or Going Precise: Considerations in building the next-gen VQA Database <br/> _Franz Götz-Hahn_
+9:10 - 9:30 AM | **Session 1** 
+9:10 - 9:30 AM | EVA: An Explainable Visual Aesthetics Dataset <br/> _Chen Kang_
+9:30 - 9:40 AM | _Coffee Break_ 
+9:40 - 11:00 AM | **Keynote & Invited Talks**
+9:40 - 10:20 AM | Modeling Aesthetics and Emotions in Visual Content - From Vincent van Gogh to Robotics and Vision <br/> _Prof. James Z. Wang_
+10:20 - 10:40 AM | Rating  Distribution & Personality Prediction for Image Aesthetics Assessment <br/> _Prof. Weisi Lin_
+10:40 - 11:00 AM | From Technical to Aesthetics Quality Assessment and Beyond: Challenges and Potential  <br/> _Prof. Lai-Kuan Wong_
+| _Lunch Break_ 
 
 <br/>
 
