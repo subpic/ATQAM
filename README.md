@@ -69,7 +69,7 @@ ATQAM will take place from 8:00 AM to 11:00 AM (Eastern Time) on the 12th of Oct
 
 Time | Session
 -- | -- 
-8:00 - 8:05 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Front Matter**
+8:00 - 8:05 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Front Matter**
 8:05 - 9:10 AM | **Keynote & Invited Talks**
 8:05 - 8:50 AM | Speeding it Up: Perception of High-Frame Rate Videos <br/> _Prof. Alan C. Bovik_
 8:50 - 9:10 AM | Going Big or Going Precise: Considerations in building the next-gen VQA Database <br/> _Franz Götz-Hahn_
