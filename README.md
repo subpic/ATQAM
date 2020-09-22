@@ -51,15 +51,18 @@ Please find the <a href="assets/docs/ATQAM-CFP.pdf"><img src="assets/images/icon
 
 <img src="assets/images/alan-bovik.png" alt="Alan Conrad Bovik" class="speaker"/>
 
-[Alan Conrad Bovik](http://www.ece.utexas.edu/people/faculty/alan-bovik) is an American engineer and vision scientist. He is a Professor at The University of Texas at Austin (UT-Austin), where he holds the Cockrell Family Regents Endowed Chair and is Director of the Laboratory for Image and Video Engineering. He is a faculty member in the UT-Austin Department of Electrical and Computer Engineering, the Institute for Neuroscience, and the Wireless Networking and Communications Group. Bovik won a Primetime Emmy Award in 2015 for his development of video quality measurement tools that are now standards in television production. Two of Bovik's research publications in the area of visual image quality have been recognized as 2017 Google Scholar Classic Papers, which are selected for being highly-cited papers that have stood the test of time, and are among the ten most-cited articles in their area of research published ten years earlier.
+[Al Bovik](http://www.ece.utexas.edu/people/faculty/alan-bovik) is the Cockrell Family Regents Endowed Chair Professor at The University of Texas at Austin. His research interests land squarely at the nexus of visual neuroscience and digital pictures. His many international honors include the 2019 Progress Medal of the Royal Photographic Society, the 2019 IEEE Fourier Award, the 2017 OSA Edwin H. Land Medal, a 2015 Primetime Emmy Award from the Academy of Television Arts and Sciences, and the Norbert Wiener and ‘Sustained Impact’ Awards of the IEEE Signal Processing Society.
 
-_Talk title: "Speeding it Up: Perception of High-Frame Rate Videos"_
+
+_Talk title: "Speeding it Up: Perception of High-Frame Rate Videos"_ ([Presentation Abstract](https://atqam-workshop.net/assets/docs/ACM_MM_Workshop_KeynoteAbstract_AlanBovik.pdf))
 
 <img src="assets/images/james-wang.png" alt="James Z. Wang" class="speaker"/>
 
-[James Z. Wang](http://infolab.stanford.edu/~wangz/home/) is a professor at Pennsylvania State University. Wang's research seeks to advance knowledge through modeling objects, concepts, aesthetics, and emotions in big visual data. He is well-known for his pioneering research in the field of aesthetics quality assessment. His research team have developed the ACQUINE aesthetic quality inference engine, SIMPLIcity semantics-sensitive image retrieval system, the ALIPR real-time computerized image tagging system, which are all widely cited. His research has been reported widely by significant media, including Discovery, Scientific American, MIT Tech Review, Public Radio, NPR, and CBS. Wang also received an NSF Career award and the endowed PNC Technologies Career Development Professorship.
+[James Z. Wang](http://infolab.stanford.edu/~wangz/home/) is a Professor of Information Sciences and Technology at The Pennsylvania State University. He received the bachelor’s degree in mathematics and computer science summa cum laude from University of Minnesota, and the MS degree in mathematics, the MS degree in computer science, and the PhD degree in medical information sciences, all from Stanford University.
+His research primarily focuses on the modeling of objects, concepts, aesthetics, and emotions in big visual data, with applications in biomedicine, visual art, meteorology, psychology, and social media. He was a recipient of the National Science Foundation Career Award (2004) and Amazon Research Awards (2018 and 2019).
+He was a Visiting Professor with the Robotics Institute, Carnegie Mellon University, from 2007 to 2008. He was a Lead Special Section Guest Editor for IEEE Transactions on Pattern Analysis and Machine Intelligence (2008). In 2011 and 2012, he served as a Program Manager at the Office of the Director of the National Science Foundation where he managed international collaboration programs covering all sciences and engineering disciplines.
 
-_Talk title: "Modeling Aesthetics and Emotions in Visual Content: From Vincent van Gogh to Robotics and Vision" ([PDF](https://atqam-workshop.net/assets/docs/ACM_MM_Workshop_KeynoteAbstract_JamesWang.pdf))_
+_Talk title: "Modeling Aesthetics and Emotions in Visual Content: From Vincent van Gogh to Robotics and Vision"_ ([Presentation Abstract](https://atqam-workshop.net/assets/docs/ACM_MM_Workshop_KeynoteAbstract_JamesWang.pdf))
 
 <br/>
 
@@ -71,13 +74,13 @@ Time | Session
 -- | -- 
 8:00 - 8:05 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Front Matter**
 8:05 - 9:10 AM | **Session 1: Keynote & Invited Talk**
-8:05 - 8:50 AM | Speeding it Up: Perception of High-Frame Rate Videos <br/> _Alan C. Bovik_
+8:05 - 8:50 AM | Speeding it Up: Perception of High-Frame Rate Videos ([Abstract](https://atqam-workshop.net/assets/docs/ACM_MM_Workshop_KeynoteAbstract_AlanBovik.pdf)) <br/> _Alan C. Bovik_
 8:50 - 9:10 AM | Going Big or Going Precise: Considerations in building the next-gen VQA Database <br/> _Franz Götz-Hahn_
 9:10 - 9:30 AM | **Session 2** 
 9:10 - 9:30 AM | EVA: An Explainable Visual Aesthetics Dataset <br/> _Chen Kang, Giuseppe Valenzise, Frederic Dufaux_
 | _Coffee Break_ 
 9:40 - 11:00 AM | **Session 3: Keynote & Invited Talks**
-9:40 - 10:20 AM | Modeling Aesthetics and Emotions in Visual Content - From Vincent van Gogh to Robotics and Vision <br/> _James Z. Wang_
+9:40 - 10:20 AM | Modeling Aesthetics and Emotions in Visual Content - From Vincent van Gogh to Robotics and Vision ([Abstract](https://atqam-workshop.net/assets/docs/ACM_MM_Workshop_KeynoteAbstract_JamesWang.pdf)) <br/> _James Z. Wang_
 10:20 - 10:40 AM | Rating  Distribution & Personality Prediction for Image Aesthetics Assessment <br/> _Weisi Lin_
 10:40 - 11:00 AM | From Technical to Aesthetics Quality Assessment and Beyond: Challenges and Potential  <br/> _Vlad Hosu, Dietmar Saupe, Bastian Goldlücke, Weisi Lin, Wen-Huang Cheng, John See, Lai-Kuan Wong_
 | _Lunch Break_ 
