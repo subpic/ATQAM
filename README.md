@@ -59,7 +59,7 @@ _Talk title: "Speeding it Up: Perception of High-Frame Rate Videos"_
 
 [James Z. Wang](http://infolab.stanford.edu/~wangz/home/) is a professor at Pennsylvania State University. Wang's research seeks to advance knowledge through modeling objects, concepts, aesthetics, and emotions in big visual data. He is well-known for his pioneering research in the field of aesthetics quality assessment. His research team have developed the ACQUINE aesthetic quality inference engine, SIMPLIcity semantics-sensitive image retrieval system, the ALIPR real-time computerized image tagging system, which are all widely cited. His research has been reported widely by significant media, including Discovery, Scientific American, MIT Tech Review, Public Radio, NPR, and CBS. Wang also received an NSF Career award and the endowed PNC Technologies Career Development Professorship.
 
-_Talk title: "Understanding Gender Stereotypes and Electoral Success from Visual Self-presentations of Politicians in Social Media" ([PDF](https://atqam-workshop.net/assets/docs/ACM_MM_Workshop_KeynoteAbstract_JamesWang.pdf))_
+_Talk title: "Modeling Aesthetics and Emotions in Visual Content: From Vincent van Gogh to Robotics and Vision" ([PDF](https://atqam-workshop.net/assets/docs/ACM_MM_Workshop_KeynoteAbstract_JamesWang.pdf))_
 
 <br/>
 
