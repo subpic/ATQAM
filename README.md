@@ -66,7 +66,8 @@ _Talk title: "Modeling Aesthetics and Emotions in Visual Content: From Vincent v
 
 <br/>
 
-## Program (tentative)
+## Program
+<a id="program"></a>
 
 ATQAM will take place from 8:00 AM to 11:00 AM (Eastern Time) on the 12th of October 2020.
 
