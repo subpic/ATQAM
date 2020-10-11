@@ -78,7 +78,7 @@ Time | Session
 8:05 - 8:50 AM | Speeding it Up: Perception of High-Frame Rate Videos ([Abstract](https://atqam-workshop.net/assets/docs/ACM_MM_Workshop_KeynoteAbstract_AlanBovik.pdf)) <br/> _Alan C. Bovik_
 8:50 - 9:10 AM | Going Big or Going Precise: Considerations in building the next-gen VQA Database <br/> _Franz Götz-Hahn_
 9:10 - 9:30 AM | **Session 2** 
-9:10 - 9:30 AM | EVA: An Explainable Visual Aesthetics Dataset <br/> _Chen Kang, Giuseppe Valenzise, Frederic Dufaux_
+9:10 - 9:30 AM | EVA: An Explainable Visual Aesthetics Dataset ([Presentation](https://vqa.mmsp-kn.de/misc/atqam/ATQAM-MAST20-atqmma84.mp4)) <br/> _Chen Kang, Giuseppe Valenzise, Frederic Dufaux_
 | _Coffee Break_ 
 9:40 - 11:00 AM | **Session 3: Keynote & Invited Talks**
 9:40 - 10:20 AM | Modeling Aesthetics and Emotions in Visual Content - From Vincent van Gogh to Robotics and Vision ([Abstract](https://atqam-workshop.net/assets/docs/ACM_MM_Workshop_KeynoteAbstract_JamesWang.pdf)) <br/> _James Z. Wang_
