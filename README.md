@@ -70,6 +70,7 @@ _Talk title: "Modeling Aesthetics and Emotions in Visual Content: From Vincent v
 <a id="program"></a>
 
 ATQAM will take place from 8:00 AM to 11:00 AM (Eastern Time) on the 12th of October 2020.
+The ATQAM/MAST 2020 Workshop Proceedings are now available in the [ACM Digital Library](https://dl.acm.org/doi/proceedings/10.1145/3423268).
 
 Time | Session
 -- | -- 
